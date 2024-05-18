@@ -32,6 +32,6 @@ services:
       - key: AUDIO_DATA
         value: inrl;bot;https://i.imgur.com/VgxJeCm.jpeg
       - key: SUDO
-        value: 917025673121
+        value: 6285714217327
       - key: DATABASE_URL
         sync: false
