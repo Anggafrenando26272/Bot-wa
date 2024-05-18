@@ -12,17 +12,17 @@
     "HEROKU_API_KEY": {
       "description": "For updating bot and setting vars remotely",
       "required": true,
-      "value": ""
+      "value": "HRKU-99235649-6e9f-4f61-9111-7286be992a72"
     },
     "HEROKU_APP_NAME": {
       "description": "Exact name which you gave at the top",
       "required": true,
-      "value": ""
+      "value": "botwa"
     },
     "WORKTYPE": {
       "description": "enter bot mode must be public/private",
       "required": true,
-      "value": "private"
+      "value": "public"
     },
     "BOT_INFO": {
       "description": "baasic bot configration",
